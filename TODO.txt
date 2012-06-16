@@ -1,1 +1,6 @@
 rm src/imgrup *.changes
+
+Add COPYING file
+
+Add WebDav support
+
